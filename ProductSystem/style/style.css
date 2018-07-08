@@ -1,0 +1,30 @@
+body,td,th {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size: 14px;
+	color: #0A0909;
+}
+a:link {
+	color: #2142AC;
+}
+a:hover {
+	color: #110606;
+}
+#pageHeader{
+	border:#999 1px solid;
+	background-color:#F4F4F4;
+	width:900px;
+color:#D01316;
+}
+#pageContent{
+	border:#999 1px solid;
+	background-color:#F4F4F4;
+	width:900px;
+color:#1DC8E4;
+}
+#pageFooter{
+	border:#999 1px solid;
+	background-color:#F4F4F4;
+	width:900px;
+color:#1E8229;
+}
+
